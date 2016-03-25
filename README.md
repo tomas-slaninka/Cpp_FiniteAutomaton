@@ -3,5 +3,7 @@ This program will simulate work of Deterministic Finite Automaton. Also you will
 
 Tasks:
 1. Determine for certain Deterministic Finite Automaton whether the word belongs to the language or not.
+
 2. For non-deterministic Finite Automaton find determinitic one, which will be equal to the previous one.
+
 3. For Deterministic-Finite Automaton find reduced (minimal) automaton.
